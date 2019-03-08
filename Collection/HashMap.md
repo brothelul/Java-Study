@@ -1,5 +1,6 @@
 
-# hash()方法
+## 具体方法解析
+### hash()方法
 ~~~
     static final int hash(Object key) {
         int h;
